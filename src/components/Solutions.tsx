@@ -105,14 +105,6 @@ const Solutions = () => {
                       </div>
                     ))}
                   </div>
-                  
-                  <Button 
-                    variant="ghost" 
-                    className="group/btn w-full justify-between hover:bg-quantum-cyan/10 hover:text-quantum-cyan"
-                  >
-                    <span>Learn More</span>
-                    <ArrowUpRight className="w-4 h-4 group-hover/btn:translate-x-1 group-hover/btn:-translate-y-1 transition-transform" />
-                  </Button>
                 </CardContent>
               </Card>
             );
